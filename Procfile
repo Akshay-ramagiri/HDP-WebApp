@@ -1,1 +1,1 @@
-web: gunicorn app:akshayapp
+web: gunicorn app:app
