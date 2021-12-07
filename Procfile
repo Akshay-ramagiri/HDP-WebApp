@@ -1,1 +1,1 @@
-web: gunicorn flask_app:akshayapp
+web: gunicorn app:akshayapp
