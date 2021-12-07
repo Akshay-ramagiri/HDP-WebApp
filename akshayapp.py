@@ -25,4 +25,4 @@ def predict():
     
 
 if __name__ == "__main__":
-    flask_app.run(debug=True)
+    app.run(debug=True)
